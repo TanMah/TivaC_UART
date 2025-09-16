@@ -1,4 +1,4 @@
-# UART Project (Tiva C LaunchPad)
+# UART Hello World (Tiva C LaunchPad)
 
 This is a simple embedded C project for the **Tiva C Series TM4C123GXL LaunchPad** that sends 'Hello World' message from the board to the computer via the UART module.
 
@@ -43,6 +43,7 @@ This is a simple embedded C project for the **Tiva C Series TM4C123GXL LaunchPad
   - [TivaWare](https://www.ti.com/tool/SW-TM4C) driver library
   - Code Composer Studio (CCS) or any compatible ARM GCC toolchain
   - Tera Term for serial console
+
 
 
 
